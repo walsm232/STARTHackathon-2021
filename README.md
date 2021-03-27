@@ -6,7 +6,8 @@
 <h6> <div align="center"> Sherry - Product Manager [India] </div> </h6>
 <h6> <div align="center"> Sebastian - Software Developer & Decision Maker [Switzerland] </div> </h6>
 <br>
-<h4> <div align="center"> https://start-hack-d0c66.firebaseapp.com/#/ </div> </h4>
+<h4> <div align="center"> Demo Link: https://start-hack-d0c66.firebaseapp.com/#/ </div> </h4>
+<h4> <div align="center"> Final Presentation: https://youtu.be/e0T8t3CJ_30 </div> </h4>
 <hr>
 <div align="center"> <img src="assets/images/SignInScreen.PNG"> </div>
 
